@@ -7,7 +7,7 @@
 
 Test Website: [Ecom Website](https://shoplane-by-lassie.netlify.app/)
 
-Test Report: [Report](https://github.com/shwetaborate/Prodigy_ST_02/edit/main/Test Report.md)
+Test Report: [Report](https://github.com/shwetaborate/Prodigy_ST_02/blob/main/Test%20Report.md)
 
 
 
